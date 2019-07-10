@@ -1,0 +1,57 @@
+span.glyphicon {
+	text-align: right;
+	float: right;
+	margin-right: 40px;
+}
+
+.table-responsive{
+	margin-top: 30px;
+}
+
+td {
+	padding-top: 20px !important;
+}
+
+body {
+	background-color: #F5FFFA !important;
+}
+
+.name {
+	font-family: 'DM Serif Text', serif;
+	font-size: 1.5em;
+	color: #2F4F4F;
+}
+
+.price, .total {
+	font-size: 1.4em;
+}
+
+.quantity {
+	font-size: 1.3em;
+}
+
+.price span.small, .name span.small, .quantity span.small, .total span.small {
+	font-size: 0.7em;
+	color: grey;
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+.btn {
+	background-color: #DCDCDC;
+	margin-left: 5px;
+}
+
+#subtotal {
+	font-weight: bolder;
+	font-size: 1.4em;
+}
+
+#final {
+	font-size: 1.7em;
+}
+
+#num-items {
+	margin-left: 15px;
+	font-size: 0.9em;
+}
